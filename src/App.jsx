@@ -25,7 +25,7 @@ function App() {
         {darkMode?<i className='bxf  bx-sun'></i>: <i className='bxf  bx-moon-stars'></i> }
       </button>
 
-      <img src={darkMode?logo:logo2} alt="Logo IFSC" className='logo' />
+      <img src={darkMode?'/logo.png':'/logo2.png'} alt="Logo IFSC" className='logo' />
 
       <div className="main-container">
         <div className="main-content">
@@ -63,7 +63,7 @@ function App() {
           <div className="code-header">
             {darkMode?'dark-mode.jsx' : 'light-mode.jsx'} 
           </div>
-          <img src={darkMode?codeDark:codeLight} alt="React Code" />
+          <img src={darkMode? '/code-dark.png':'/code-light.png'} alt="React Code" />
           <div className="code-tags">
             <span className='tag react'>React</span>
             <span className='tag javascript'>JavaScript</span>
