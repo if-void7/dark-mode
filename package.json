@@ -1,6 +1,7 @@
 {
   "name": "dark-mode",
   "private": true,
+  "homepage": "https://github.com/if-void7/dark-mode-",
   "version": "0.0.0",
   "type": "module",
   "scripts": {
