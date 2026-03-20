@@ -1,16 +1,33 @@
-# React + Vite
+# Dark Mode
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A reusable dark mode implementation for web applications with theme switching.
 
-Currently, two official plugins are available:
+## 🚀 Features
+- Toggle between light and dark themes
+- User preference persistence
+- Smooth theme transitions
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🛠️ Technologies
+- HTML, CSS, JavaScript, React.js, Vue
 
-## React Compiler
+## 🎯 Purpose
+This project was created to practice:
+- DOM manipulation
+- LocalStorage usage
+- CSS theming
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+## 💡 Use Case
+Can be easily integrated into any web project.
 
-## Expanding the ESLint configuration
+## 📸 Preview
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+<img width="2533" height="1443" alt="Screenshot 2026-03-20 at 17-58-17 dark-mode" src="https://github.com/user-attachments/assets/14998fcc-f925-441b-974c-58558f1ad3bf" />
+
+<img width="2533" height="1443" alt="Screenshot 2026-03-20 at 17-58-24 dark-mode" src="https://github.com/user-attachments/assets/86dab3be-fa9c-40e1-a2e9-ee08e3e13ff8" />
+
+URL: https://if-void7.github.io/dark-mode/
+
+
+
+## 📌 Status
+✔️ Completed 
